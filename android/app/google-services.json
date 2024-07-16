@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "896505984502",
+    "project_id": "securify-apps",
+    "storage_bucket": "securify-apps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896505984502:android:209d0623402e0c021b03d7",
+        "android_client_info": {
+          "package_name": "com.example.securify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEVcK0mQz8g8ksZt5JNr1DGU0h9saDFXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
