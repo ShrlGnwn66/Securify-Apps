@@ -1,4 +1,4 @@
-# Securify - Smartlock
+# Securify - Smartlock Apps
 
 Apps for Monitoring.
 
