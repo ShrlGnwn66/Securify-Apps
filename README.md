@@ -1,6 +1,6 @@
-# securify
+# Securify - Smartlock
 
-A new Flutter project.
+Apps for Monitoring.
 
 ## Getting Started
 
