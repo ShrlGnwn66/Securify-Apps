@@ -46,4 +46,3 @@ Sahrul Gunawan
 ## Lisensi
 
 Proyek ini menggunakan lisensi MIT. Silakan cek file LICENSE untuk detail.
-![alt text](image.png)
