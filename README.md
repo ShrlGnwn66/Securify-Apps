@@ -35,7 +35,7 @@ https://youtu.be/87HAeTrN4-I?si=mD6IKBNI1komaoqG
 ### Software:
 
 - Firebase untuk penyimpanan data real-time.
-- Flutter/React Native untuk aplikasi mobile.
+- Flutter untuk aplikasi mobile.
 - Google Assistant API untuk integrasi suara.
 - Sinric Pro untuk integrasi sistem dengan Google Assistant.
 
@@ -46,3 +46,4 @@ Sahrul Gunawan
 ## Lisensi
 
 Proyek ini menggunakan lisensi MIT. Silakan cek file LICENSE untuk detail.
+![alt text](image.png)
