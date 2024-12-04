@@ -1,16 +1,48 @@
-# Securify - Smartlock Apps
+# Sistem Keamanan Pintu Rumah Berbasis IoT dengan Integrasi Aplikasi Mobile dan Google Assistant
 
-Apps for Monitoring.
+## Deskripsi
 
-## Getting Started
+Aplikasi ini merupakan sistem monitoring keamanan pintu rumah berbasis IoT yang dapat dikontrol menggunakan Google Assistant. Sistem ini memungkinkan pengguna untuk:
 
-This project is a starting point for a Flutter application.
+- Memantau status pintu (terbuka/tertutup) secara real-time.
+- Mengontrol kunci pintu dari jarak jauh.
+- Menerima notifikasi jika terjadi akses yang tidak sah.
 
-A few resources to get you started if this is your first Flutter project:
+## Fitur Utama
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Real-Time Monitoring: Dokumentasi akan terkirim ke aplikasi jika terjadi aktivitas pada pintu.
+- Remote Control: Buka atau kunci pintu melalui Google Assistant.
+- Keamanan Terintegrasi: Mendukung autentikasi untuk mencegah akses tidak sah.
+- Notifikasi Instan: Pemberitahuan ke ponsel jika ada aktivitas mencurigakan / alarm berbunyi.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Video Dokumentasi
+
+https://youtu.be/87HAeTrN4-I?si=mD6IKBNI1komaoqG
+
+## Teknologi yang Digunakan
+
+### Hardware:
+
+- NodeMCU ESP8266
+- ESP32 CAM
+- Modul Stepdown LM2596
+- Sensor Getar SW420
+- Selenoid Doorlock
+- Relay
+- Buzzer
+- Adaptor 12 V
+
+### Software:
+
+- Firebase untuk penyimpanan data real-time.
+- Flutter/React Native untuk aplikasi mobile.
+- Google Assistant API untuk integrasi suara.
+- Sinric Pro untuk integrasi sistem dengan Google Assistant.
+
+## Kontributor
+
+Sahrul Gunawan
+
+## Lisensi
+
+Proyek ini menggunakan lisensi MIT. Silakan cek file LICENSE untuk detail.
